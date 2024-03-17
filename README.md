@@ -9,8 +9,7 @@ This is a simple todo app built using HTML, CSS, and vanilla JavaScript.
 3. **Prioritize Tasks**: Users can prioritize tasks by pinning them to the top.
 4. **Select Multiple Items**: Option to select and perform actions on multiple todo items simultaneously.
 5. **Responsive Design**: The app is responsive and adapts to different screen sizes.
-   
-   - Task status is indicated by colored borders on the left side of task items. Green border indicates completed tasks, while red border indicates uncompleted tasks.
+6. **Status**: Task status is indicated by colored borders on the left side of task items. Green border indicates completed tasks, while red border indicates uncompleted tasks.
 
 ## Libraries Used
 
@@ -24,6 +23,3 @@ Simply open the `index.html` file in your web browser to start using the app. Yo
 
 Feel free to fork this repository and make improvements or add new features. Submit pull requests if you'd like your changes to be considered for inclusion in the main project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
